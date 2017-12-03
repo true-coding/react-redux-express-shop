@@ -1,0 +1,43 @@
+[
+  {
+    "firstName": "mike",
+    "lastName": "mr",
+    "email": "mike@gmail.com",
+    "username": "mike",
+    "password": "SuperSecretcannotcrack55",
+    "roles": [
+      "user",
+      "admin"
+    ]
+  },
+  {
+    "firstName": "jim",
+    "lastName": "thibo",
+    "email": "jimthibo@gmail.com",
+    "username": "thibo88",
+    "password": "doifgjdfbf445hfdghdghsdf",
+    "roles": [
+      "user"
+    ]
+  },
+  {
+    "firstName": "robert",
+    "lastName": "clone",
+    "email": "rob@yahoo.com",
+    "username": "robyn98",
+    "password": "sdgbdfbfbo52fdbgdfbfbfgeh",
+    "roles": [
+      "user"
+    ]
+  },
+  {
+    "firstName": "john",
+    "lastName": "stock",
+    "email": "jonh@yahoo.com",
+    "username": "johnstock",
+    "password": "5f4gbdfgdfbnvd65vb",
+    "roles": [
+      "user"
+    ]
+  }
+]
